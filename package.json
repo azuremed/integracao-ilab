@@ -1,0 +1,24 @@
+{
+  "name": "integracao-pacs",
+  "version": "1.0.0",
+  "description": "Integração com o PACS",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azuremed/integracao-pacs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azuremed/integracao-pacs/issues"
+  },
+  "homepage": "https://github.com/azuremed/integracao-pacs#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "pusher-js": "^7.0.2"
+  }
+}
